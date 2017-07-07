@@ -1,2 +1,1 @@
-# JavaInterviewQuestions-Answers
-JavaI nterview Questions &amp; Answers from interviewbit.com
+JavaI Interview Questions & Answers from interviewbit.com
